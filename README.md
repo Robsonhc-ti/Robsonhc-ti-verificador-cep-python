@@ -8,7 +8,7 @@ O projeto utiliza uma interface gráfica e consome dados em tempo real de uma AP
 
 ## 🚀 Funcionalidades
 * Consulta em tempo real: Busca dados de endereço atualizados através da API ViaCEP.
-* Validação de entrada: Limpa traços e espaços, validando se o formato possui os 8 dígitos necessários.
+* Validação de entrada: Limpa traços, validando se o formato possui os 8 dígitos necessários.
 * Interface Gráfica (GUI): Janela amigável desenvolvida com Tkinter.
 * Tratamento de erros: Alerta o usuário caso o CEP seja inválido, inexistente ou ocorra falha de conexão.
 
@@ -21,7 +21,7 @@ O projeto utiliza uma interface gráfica e consome dados em tempo real de uma AP
 ## 📦 Como Executar o Projeto
 
 ### Pré-requisitos
-Você precisa ter o **Python** instalado na sua máquina. 
+Você precisa ter o **Python** instalado na sua máquina.
 
 ### Passo a passo
 
