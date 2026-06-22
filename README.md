@@ -46,4 +46,4 @@ Você precisa ter o **Python** instalado na sua máquina.
    ```
 
 ## 👤 Autor
-* **Robson Henrique** - [Meu GitHub](https://github.com/Robson-ti)
+* **Robson Henrique** - [Meu GitHub](https://github.com/Robsonhc-ti)
